@@ -1,6 +1,6 @@
 # This is my Portfolio Website.
 
-## I Used:
+## Tech Stack Used:
 * Bootstrap 4
 * JQuery
 
